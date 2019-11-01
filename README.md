@@ -1,1 +1,2 @@
-# i-want-to-learn-
+# i-want-to-learn
+i love development, movie,cook
